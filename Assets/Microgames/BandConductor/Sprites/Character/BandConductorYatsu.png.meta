@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 490657ca6c91b3c4cb83a8eb0f307df3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BandConductorYatsu_Torso
+  - first:
+      213: 21300002
+    second: BandConductorYatsu_RightUpperArm
+  - first:
+      213: 21300004
+    second: BandConductorYatsu_RightForearm
+  - first:
+      213: 21300006
+    second: BandConductorYatsu_Strings
+  - first:
+      213: 21300008
+    second: BandConductorYatsu_LeftUpperArm
+  - first:
+      213: 21300010
+    second: BandConductorYatsu_LeftForearm
+  - first:
+      213: 21300012
+    second: BandConductorYatsu_RightHand
+  - first:
+      213: 21300014
+    second: BandConductorYatsu_LeftHand
+  - first:
+      213: 21300016
+    second: BandConductorYatsu_RightLeg
+  - first:
+      213: 21300018
+    second: BandConductorYatsu_LeftLeg
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BandConductorYatsu_Torso
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 120
+        width: 195
+        height: 308
+      alignment: 9
+      pivot: {x: 0.6477146, y: 0.2699899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_RightUpperArm
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 381
+        width: 62
+        height: 48
+      alignment: 9
+      pivot: {x: 0.89006484, y: 0.9154409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_RightForearm
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 355
+        width: 45
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6414266, y: 0.85728854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_Strings
+      rect:
+        serializedVersion: 2
+        x: 1.0000005
+        y: 192
+        width: 212
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_LeftUpperArm
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 222
+        width: 54
+        height: 82
+      alignment: 9
+      pivot: {x: 0.587651, y: 0.8481017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_LeftForearm
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 255
+        width: 47
+        height: 71
+      alignment: 9
+      pivot: {x: 0.75276214, y: 0.9063527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_RightHand
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 42
+        width: 44
+        height: 53
+      alignment: 9
+      pivot: {x: 0.45004967, y: 0.8402477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_LeftHand
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 39.99997
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5686818, y: 0.8251877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 41
+        width: 70
+        height: 128
+      alignment: 9
+      pivot: {x: 0.16247733, y: 0.9593103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BandConductorYatsu_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 46
+        width: 105
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8872349, y: 0.9487217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 103326989721794
+  assetBundleName: 
+  assetBundleVariant: 

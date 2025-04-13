@@ -1,0 +1,439 @@
+generic
+	idname=Vietnamese
+	name=Tiếng Việt
+	gamename=NitorInc.
+	incomplete=LƯU Ý: Ngôn ngữ này chưa được hoàn toàn dịch nên một vài từ sẽ hiện trong Tiếng Anh
+	addedtogame=Y
+	complete=N
+stage
+	control
+		key=DÙNG BÀN FÍM
+		mouse=DÙNG CHUỘT
+	speedup=TĂNG TỐC!
+	boss=MÀN BOSS
+	levelup=THĂNG CẤP!
+	pause=Đã dừng
+		resume=Tiếp tục {0}
+	quit=Thoát {0}
+	retry=Thử lại {0}
+	gameover=Game Over! Thua rồi hihi
+		score=Điểm số: {0}
+		highscore=Điểm cao nhất: {0}
+		newhighscore=ĐIểm cao mới!
+discord
+	scoreformat={0} Games
+	scoreformatsingular={0} Game
+	boss=Màn Boss
+	menu=Trong menu
+menu
+	yes=Có
+	no=Không
+	ok=OK
+	back=Quay lại
+	backalt=Trở lại
+	confirm=Đồng ý
+	cancel=Hủy
+	on=Bật
+	off=Tắt
+	play=Vào chơi
+	gamemode=Chọn kiểu chơi!
+		nitori=Cốt truyện
+			description=Cốt truyện không bao giờ kết thúc! Bạn có thể đạt cao nhất bao nhiêu điểm
+		arcade=Chế độ giải trí
+		microgamepractice=Luyện tập các Microgame
+			description=Nâng trình của bạn lên và lấy được nhiều điểm hơn để khoe với bạn của mình
+		locked1=Kiểu chơi đã bị khóa! Hoàn thành {0} để mở khóa
+		locked2=Kiểu chơi đã bị khóa! Đạt được {0} hoắc hơn trong {1} để mở khóa
+		highscore=Điểm cao: {0}
+		compilationmode
+			description=Vượt qua nhiều microgames nhất mà bạn có thể! Không có vòng boss
+		compilation=Danh sách yếu lược Kappa
+			description=Chế độ giải trí bình thường: Chơi tất cả các microgame ngẫu nhiên
+		compilationfast=Năng xuất tối đa. Max Kappacity
+			description=CỰC KÌ CỰC KÌ NHANH
+		compilationmystery=(Tài liệu cần thiết)
+			description=Ôi chao, lần này chúng tôi đã làm mất đi bảng thiết kế. Lệnh và cách điều khiển không được cho!
+		compilationhard=Địa ngục Dưa leo
+			description=Tất cả ở mức khó nhất! Bạn chỉ có một mạng! Bạn có thể trụ được bao lâu?
+	main
+		quit=Thoát
+			prompt=Bạn có muốn thoát không {0}?
+		settings=Cài đặt
+		credits=Bảng Credit
+	settings
+		resolution=Độ phân giải
+		fullscreen=Toàn màn hình
+		language=Ngôn ngữ
+		graphics=Chất lượng đồ họa
+			0=Nhanh nhất (xấu nhất)
+			1=Nhanh (xấu)
+			2=Đơn giản (bình thường)
+			3=Tốt (Đẹp)
+			4=Đẹp (Đẹp hơn tốt)
+			5=Tuyệt vời (đẹp nhất có thể)
+		volume=Âm lượng
+			master=Chung
+			music=Nhạc nền
+			sfx=Hiệu ứng
+			voice=Giọng nói
+	microgamecredits
+		art=Đồ họa game: {0}
+		code=Mã game: {0}
+		music=Nhạc game: {0}
+	splash
+		introa=Tựa game này là fangame của Touhou Project (東方Project), được làm bởi ZUN
+		introb=Nhiều fan của bộ game Touhou đã hợp tác và đã đóng góp code, nhạc, tranh và vô vàn tài năng khác để có được bộ microgame này
+		introc=Nếu mà bạn muốn đóng góp cho full game, hãy vào {0}\nHoặc giúp chúng tôi lan truyền!
+		webglwarning=Nếu web có vấn đề, thử download bằng một trong những cái link ở dưới
+microgame
+	FreezeFrogs
+		command=Đóng băng!
+		igname=Ếch Băng
+	Slingshot
+		command=Bắn!
+		igname=Phóng Chim
+	ChenFood
+		command=Đừng để bị ăn thịt!
+		igname=Purrmaid
+	Spider
+		command=Cho ăn!
+		igname=Cho Nhện Ăn Kìa
+	Donation
+		command=Thu thập 3!
+		igname=Thu Tiền
+	Wrench
+		command=Vặn chặt!
+		igname=Quay Cờ Lê Như Quay Tay
+	Potion
+		command=Cho vào!
+		ingredients=Nguyên liệu
+		igname=Rắc Rối Việc Nấu Thuốc
+	GhostFood
+		command=Ăn và nhai!
+		igname=Ma Tham Ăn
+	Spaceship
+		command=Phóng!
+		igname=Lên Trời Hay Xuống Đất
+	CupShuffle
+		command=Chú ý!
+		commandb=Chọn!
+		igname=Chọn Ly Kiếm Youkai
+	TraceShape
+		command=Tô vào
+		igname=Tô Màu Đi
+	KogasaScare
+		command=Hù dọa!
+		igname=Hù Chết Người Ta
+	RockBand
+		command=Trình diễn!
+		igname=Buổi Diễn Gầm Rống
+	ChenBike
+		command=Bấm còi!
+		igname=Cái BEEP Gì Thế
+	MasterSparkCode
+		command=Niệm!
+		igname=Bắn Thử Nghiệm
+	OkuuFire
+		command=Điều hòa!
+		igname=Kiểm Soát Nhiệt Độ
+	YukariCake
+		command=Chụp lấy!
+		igname=Chôm Bánh
+	RemiCover
+		command=Che nắng!
+		igname=Che Hay Cháy
+	SuikaShake
+		command=Lắc đi!
+		igname=Lắc, Không Trộn
+	TouhouSort
+		command=Sắp xếp theo {0}!
+		hat=mũ
+		wing=loại cánh
+		ear=đôi tai
+		igname=Gái Này Gái Nọ
+	FlanGrab
+		command=Bảo vệ!
+		igname=Bảo Vệ Khung Thành
+	PaperThief
+		command=Đi đến đích!
+		commandb=Cẩn thận!
+		commandc=Bắn hạ
+		commandd=Đánh bại cô ấy!
+		igname=Đánh Kẻ Trộm Dưa Leo
+	KaguyaMemory
+		command=Nhìn kìa!
+		commandb=Chọn!
+		igname=Khí Ức Báu Vật
+	SumiWheel
+		command=Chọn đúng Rune mà Sumireko đang nghĩ!
+		igname=Chiếc Nón Kì Diệu
+	MochiPound
+		command=Giã nát!
+		igname=Giã Mochi
+	RuukotoSweep
+		command=Quét!
+		igname=Quét, Quét!
+	MaskPuzzle
+		command=Tập hợp!
+		igname=Chỉnh Sửa Cảm Xúc
+	YuukaWater
+		command=Tưới!
+		igname=Tưới Bông
+	KnifeDodge
+		command=Né!
+		igname=Né Dao Như Né Bão
+	NitoriLook
+		command=Đi tìm Nitori!
+		igname=Trốn Tìm Cùng Nitori
+	MamiPoser
+		command=Kẻ giả mạo!
+		igname=Kẻ Giả Mạo
+	DollDance
+		command=Bắt chước!
+		igname=Màn Kịch Rối
+	YoumuSlash
+		command=Quan sát...
+		commandb=Chém đi!
+		igname=Nhịp Điệu Cắt
+	CirnoBored
+		command=Hãy tử tế với Cirno!
+		commandb=Giải trí!
+		commandc=Cứu cô ấy!
+		igname=Giải Trí Lạnh Lẽo
+	HecShapes
+		command=Đặt!
+		igname=Xếp Hình Vào Mũ
+	RockPaperSatori
+		command=Kéo búa bao!
+		igname=Bao Búa Kéo
+	MarisaJizou
+		command=Đặt mũ vào đúng thời gian!
+		igname=Thả Mũ
+	NueAbduct
+		command=Bắt giữ!
+		igname=U.F.Ôi Trời Ạ
+	ReimuDodge
+		command=Né!
+		igname=~
+	ClothesChoose
+		command=Chọn đúng quần áo!
+		igname=Thời Trang Của Ngày
+	KyoukoEcho
+		command=Phản dame!
+		igname=Cho Mị Phản Dame
+	DatingSim
+		command=Lãng mạn!
+		suika
+			fullname=Suika Ibuki
+			firstname=Suika
+			introdialogue=Này~! Bạn rảnh phải không? Chúng mình đi lấy thứ gì đó để ăn đi.
+			right0
+				option=Chạy đua đến căn tin!
+				response=Ai thua người đó trả tiền!
+			right1
+				option=Ừm, chúng mình mua sâu ăn đi
+				response=Yay!
+			wrong0
+				option=Mà bạn mới vừa ăn mà?!
+				response=Nó chả vui khi ăn một mình cả.
+			wrong1
+				option=Biến đi, đồ mập ú!
+				response=Bạn cũng không là người ốm nhất đâu, đồ ngốc!
+			wrong2
+				option=Bạn đi một mình đi.
+				response=Sao cũng được, bạn cũng chả có vui gì hết.
+		youmu
+			fullname=Youmu Konpaku
+			firstname=Youmu
+			introdialogue=Tôi trồng hoa cho bạn nè.
+			right0
+				option=Nó thật là đẹp!
+				response=Cảm ơn bạn~
+			right1
+				option=Thật là ngọt ngào.
+				response=Tôi mừng vì bạn thích nó!
+			wrong0
+				option=ÁÁÁÁÁÁÁÁÁÁ, một con ma!
+				response=Bạn đùa à.
+			wrong1
+				option=Tôi ghét hoa!
+				response=Dù sao bạn không đáng với chúng
+			wrong2
+				option=Tôi cá luôn nó là giả
+				response=Tôi cá bạn có <i>nhiều</i> may mắn với các cô gái khác
+		yuuka
+			fullname=Yuuka Kazami
+			firstname=Yuuka
+			introdialogue=Bạn vừa đi nhìn các cô gái khác, phải không?
+			right0
+				option=Tất nhiên là không rồi!
+				response=Tốt, tốt nhất là đừng nên như thế.
+			right1
+				option=Bạn là người duy nhất dành cho mình!
+				response=Tôi cũng nghĩ vậy.
+			wrong0
+				option=Ờ thì...
+				response=Áo em sy Ý em sao?
+			wrong1
+				option=Mình thích Reimu hơn.
+				response=Nghĩ lại đi.
+			wrong2
+				option=Mình mới nghĩ ra một thứ gì đó.
+				response=Ôi, đừng có hòng!
+		patchy
+			fullname=Patchouli Knowledge
+			firstname=Patchouli
+			introdialogue=Mình hy vọng bạn thích trà tôi làm...
+			right0
+				option=Ngon đấy.
+				response=Ô? Cảm ơn.
+			right1
+				option=Thêm nữa đi!
+				response=Có ngay!
+			wrong0
+				option=Vị buồn cười nhỉ.
+				response=Ôi, mình xin lỗi
+			wrong1
+				option=*Ngã và làm đổ trà ra mọi nơi*
+				response=<i>UI DAAAAAAAAAA!!</i>
+			wrong2
+				option=Mình chưa bao giờ kêu đến trà.
+				response=Mình tưởng bạn sẽ thích nó
+		fakeconfig=Lưu\nTiếp tục\nTự động\nNhật kí\nTùy chọn
+		igname=Lần Đầu Hẹn Hò
+	BugSwat
+		command=Đập!
+		igname=Đập Ruồi
+	ClownTorch
+		command=Đốt!
+		igname=Chuyền Lửa
+	BeachBall
+		command=Ném!
+		igname=Ném Bóng
+	FanBlow
+		command=Thổi bay!
+		igname=Xóa Sương
+	YuugiBalance
+		command=Giữ thăng bằng!
+		igname=Uống Bia Một Cách Cân Bằng
+	ComicBubble
+		command=Hội thoại!
+		0
+			0=Bạn có chắc là nó an toàn không?
+			1=Nó an toàn mà!
+		1
+			0=Này đợi đã!
+			1=Bạn nói đúng rồi đấy~
+			2=~Này!
+		2
+			0=Lau dọn đúng là mệt thật...
+			1=Sao phải lo khi mình là người duy nhất đến thăm
+			2=<i>Eek!</i>
+			3=<i>Ui da!</i>
+		igname=Đến Kết Luận Đi!
+	DoorKnock
+		command=Gõ!
+		igname=Chán Lắm Rồi Đấy
+	FoodCut
+		command=Cắt!
+		igname=Công Thức Gia Truyền
+	MoneyTrap
+		command=Lùa!
+		igname=Cạm Bẫy Của Tiền
+	KeineMath
+		command=Giải!
+		igname=Tính Toán
+	DoomGame
+		command=Bắn chúng!
+		danger=Sau bạn đấy!
+		igname=Thỏ Xâm Lược Kìa!
+	MystiaServe
+		command=Phục vụ!
+		igname=Phục Vụ Đây!
+	FoodRoast
+		command=Lấy khi sẵn sàng!
+		igname=Khoai Tây Nóng
+	BoatSteer
+		command=Tổ lái!
+		igname=Ra Khơi!
+	SeijaSpin
+		command=Quay!
+		igname=Quay Đi!
+	GhostSuck
+		command=Hút!
+		igname=Bắt Ma
+	EikiJudge
+		command=Sắp xếp!
+		igname=Ngày Phán Xét
+	IcePath
+		command=Điều hướng!
+		igname=Trượt Băng
+	KagerouCut
+		command=Cạo!
+		igname=Đi Hớt Tóc
+	TrainTracks
+		command=Cứu!
+		igname=Rắc Rối Đường Ray
+	SagumeLie
+		0=O: Q0
+			lie0=O: L0-0
+			lie1=O: L0-1
+			truth0=O: T0-0
+			truth1=O: T0-1
+		1=O: Q1
+			lie0=O: L1-0
+			lie1=O: L1-1
+			truth0=T: T1-0
+			truth1=O: T1-1
+	AwooClicker
+		igname=Puparrazi
+	HinaSpin
+		igname=Xoay Năng
+	MoonSoccer
+		igname=Sút! VÀO!
+nitori
+	storyintro=Ôi chao, nhìn như chúng ta có một khách hàng mới.\nHãy xem làm thế nào mà bạn xử lý được các game thương hiệu của chúng tôi.\nTốt nhất là đừng nên chớp mắt đấy!
+	storyfinished=Tốt lắm, mọt sách.\nChắc bạn không chỉ là một người lướt web thôi nhỉ.\nBây giờ hãy thử {0} để có thử thách chính!
+	compilationfinished=Ôi, thật ấn tượng!\nNhưng hãy đợi cho đến khi có full game đi.\n{0} chỉ mới bắt đầu thôi
+credits
+	intro={0} đã được làm nhờ vào những fan sau
+	kapptain=Giám đốc, Lập trình viên, Quản lý, Đội "Kapptain"
+	leadart=Họa sĩ chính, Nhà thiết kế nhân vật, Giọng của Nitori
+	code=Code chính của game
+	UI=Menu và đồ họa của các màn
+	menumusic=Nhạc menu
+	stagemusic=Nhạc của Màn
+	microgame
+		management=Sự quản lý các Microgame
+		managementalt=Sự quản lý cộng tác
+		code=Code của các Microgame
+		art=Tranh ảnh của các Microgame
+		music=Nhạc của các Microgame
+	localization=Các bản dịch
+		management=Sự quản lý của việc dịch game
+	sfx=Hiệu ứng âm thanh
+	voice=Giọng của Nitori
+	site=Người thiết kế trang web
+	trailer=Trailer của Demo
+	socialmedia=Quảng cáo/Trang mạng xã hội
+	touhou=Đây là fangame của bộ game Touhou Project, tạo bởi ZUN
+	thanks=Lời cảm ơn chân thành đến
+		discord=Touhou Project Discord Server
+		playtesters=Tất cả những người chơi thử
+		fans=Và tất cả các fan đã giúp chúng tôi lan truyền!
+		patreon=Cảm ơn các bạn supporter đã ủng hộ chúng mình trên Patreon
+meta
+	recorded=Y
+	IsAsian=N
+	font
+		LiberationSans=N
+		Mitr=Y
+		Comic=N
+		KFhimaji=N
+		KFhimajiLatin=N
+		TakeOffSimp=N
+		TakeOffTrad=N
+		Gagalin=N
+		RobinWriting=Y
+		SourceHanSerifK=?
+		Fat=N

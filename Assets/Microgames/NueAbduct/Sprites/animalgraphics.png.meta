@@ -1,0 +1,901 @@
+fileFormatVersion: 2
+guid: 54f7cb122ca7c488ca482606ef791140
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: animalgraphics_ReimuHead
+  - first:
+      213: 21300002
+    second: animalgraphics_ReimuHeadEyesWide
+  - first:
+      213: 21300004
+    second: animalgraphics_ReimuHeadEyesClosed
+  - first:
+      213: 21300006
+    second: animalgraphics_ReimuBody
+  - first:
+      213: 21300008
+    second: animalgraphics_ReimuWhole
+  - first:
+      213: 21300010
+    second: animalgraphics_NitoriWhole
+  - first:
+      213: 21300012
+    second: animalgraphics_MamizouWhole
+  - first:
+      213: 21300014
+    second: animalgraphics_MamizouHat
+  - first:
+      213: 21300016
+    second: animalgraphics_MamizouBody
+  - first:
+      213: 21300018
+    second: animalgraphics_MamizouTail
+  - first:
+      213: 21300020
+    second: animalgraphics_MamizouHead
+  - first:
+      213: 21300022
+    second: animalgraphics_MamizouHeadEyesWide
+  - first:
+      213: 21300024
+    second: animalgraphics_MamizouHeadEyesClosed
+  - first:
+      213: 21300026
+    second: animalgraphics_NitoriBody
+  - first:
+      213: 21300028
+    second: animalgraphics_NitoriTail
+  - first:
+      213: 21300030
+    second: animalgraphics_NitoriNeck
+  - first:
+      213: 21300032
+    second: animalgraphics_NitoriHead
+  - first:
+      213: 21300034
+    second: animalgraphics_NitoriHeadEyesWide
+  - first:
+      213: 21300036
+    second: animalgraphics_NitoriHeadEyesClosed
+  - first:
+      213: 21300038
+    second: animalgraphics_NitoriPropeller
+  - first:
+      213: 21300040
+    second: animalgraphics_NitoriForelegForeground
+  - first:
+      213: 21300042
+    second: animalgraphics_NitoriForelegBackground
+  - first:
+      213: 21300044
+    second: animalgraphics_NitoriHindlegBackground
+  - first:
+      213: 21300046
+    second: animalgraphics_NitoriHindlegForeground
+  - first:
+      213: 21300048
+    second: animalgraphics_MamizouForelegBackground
+  - first:
+      213: 21300050
+    second: animalgraphics_MamizouForelegForeground
+  - first:
+      213: 21300052
+    second: animalgraphics_MamizouHindlegForeground
+  - first:
+      213: 21300054
+    second: animalgraphics_MamizouHindlegBackground
+  - first:
+      213: 21300056
+    second: animalgraphics_ReimuForelegBackground
+  - first:
+      213: 21300058
+    second: animalgraphics_ReimuForelegForeground
+  - first:
+      213: 21300060
+    second: animalgraphics_ReimuHindlegForeground
+  - first:
+      213: 21300062
+    second: animalgraphics_ReimuHindlegBackground
+  - first:
+      213: 21300064
+    second: animalgraphics_ReimuTail
+  - first:
+      213: 21300066
+    second: animalgraphics_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animalgraphics_ReimuHead
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 558
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuHeadEyesWide
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 382
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuHeadEyesClosed
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 382
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuBody
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 543
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuWhole
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 508
+        width: 292
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriWhole
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 298
+        width: 222
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouWhole
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 390
+        width: 289
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHat
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 305
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouBody
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 291
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouTail
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 201
+        width: 148
+        height: 78
+      alignment: 9
+      pivot: {x: 0.10217079, y: 0.4602712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHead
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 206
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHeadEyesWide
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 206
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHeadEyesClosed
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 206
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriBody
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 172
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriTail
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 200
+        width: 58
+        height: 33
+      alignment: 9
+      pivot: {x: 0.2328549, y: 0.5469536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriNeck
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 84
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriHead
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriHeadEyesWide
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 269
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriHeadEyesClosed
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 175
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriPropeller
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 165
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriForelegForeground
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 166
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.53521466, y: 0.7582405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriForelegBackground
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 228
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5880365, y: 0.7324163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriHindlegBackground
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 228
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.2579001, y: 0.7065923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_NitoriHindlegForeground
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 166
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4031601, y: 0.74532855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouForelegBackground
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 290
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.64756554, y: 0.85508007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouForelegForeground
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 290
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.64756554, y: 0.8766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHindlegForeground
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 290
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.42621866, y: 0.8766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_MamizouHindlegBackground
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 290
+        width: 42
+        height: 72
+      alignment: 9
+      pivot: {x: 0.42621723, y: 0.7367202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuForelegBackground
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 570
+        width: 50
+        height: 104
+      alignment: 9
+      pivot: {x: 0.63945067, y: 0.8501141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuForelegForeground
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 570
+        width: 50
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6549438, y: 0.946954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuHindlegForeground
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 570
+        width: 50
+        height: 104
+      alignment: 9
+      pivot: {x: 0.43802246, y: 0.93950474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuHindlegBackground
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 570
+        width: 50
+        height: 104
+      alignment: 9
+      pivot: {x: 0.29857177, y: 0.8203172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animalgraphics_ReimuTail
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 566
+        width: 73
+        height: 114
+      alignment: 9
+      pivot: {x: 0.18162224, y: 0.9145433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

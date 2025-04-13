@@ -1,0 +1,683 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameSplash.unity
+    guid: b2d12a4409001264da8672fa0799ab8c
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 540513aa678e9da46831f6e5ff642dc6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c69d9380c6efb70488371defba23c1fc
+  - enabled: 1
+    path: Assets/Stages/Nitori/Nitori.unity
+    guid: 7397ea3eae0e4064581d0f6645242c65
+  - enabled: 1
+    path: Assets/Stages/Reimu/Nitori.unity
+    guid: 69c5f9e42d0b1314faf8a821886da03d
+  - enabled: 1
+    path: Assets/Stages/Nitori/Variations/Compilation.unity
+    guid: 29bdcd00f92c85144a252dba6f07729c
+  - enabled: 1
+    path: Assets/Stages/Nitori/Variations/CompilationHard.unity
+    guid: ce61b8733468243419c89c0708ebe9aa
+  - enabled: 1
+    path: Assets/Stages/Nitori/Variations/CompilationMystery.unity
+    guid: 07a5b483d30615249a29862a377bf171
+  - enabled: 1
+    path: Assets/Stages/Nitori/Variations/CompilationFast.unity
+    guid: 13c64de7655f373429137785fb7c7515
+  - enabled: 1
+    path: Assets/Stages/Nitori/Variations/MicrogamePractice.unity
+    guid: b828b3a43daf5b943be5e1d29045b1b7
+  - enabled: 1
+    path: Assets/Stages/Reimu/Compilation.unity
+    guid: f3a39c242ba43d84ba77e9a80d73b39a
+  - enabled: 1
+    path: Assets/Stages/Reimu/CompilationFast.unity
+    guid: fe7ad6806b99d4441a870bdab431eb00
+  - enabled: 1
+    path: Assets/Stages/Reimu/CompilationHard.unity
+    guid: b21b7584201ae3c4cbc15f7b5e1e9738
+  - enabled: 1
+    path: Assets/Stages/Reimu/CompilationMystery.unity
+    guid: 89cd13cb0ce68ac47b19f75f8dcdb796
+  - enabled: 1
+    path: Assets/Scenes/NitoriSplash.unity
+    guid: 5c9f5a2414e40794e9ff572fd7c3929a
+  - enabled: 1
+    path: Assets/Stages/Reimu/MicrogamePractice.unity
+    guid: 8c0df53cf23a0394d80c96a1d8925485
+  - enabled: 1
+    path: Assets/Microgames/BandConductor/Scenes/BandConductor1.unity
+    guid: 5d2bf960afbdc284a9b502bde487e24b
+  - enabled: 1
+    path: Assets/Microgames/BandConductor/Scenes/BandConductor2.unity
+    guid: a22eb352e818b7246baca4a363a53cf3
+  - enabled: 1
+    path: Assets/Microgames/BandConductor/Scenes/BandConductor3.unity
+    guid: 9d584922eebb1da47b86e86ec5308dc6
+  - enabled: 1
+    path: Assets/Microgames/BeachBall/Scenes/BeachBall1.unity
+    guid: 0b1f87a03c9892a4c8cb73186744cf24
+  - enabled: 1
+    path: Assets/Microgames/BeachBall/Scenes/BeachBall2.unity
+    guid: 5609a7a4790e4b04c887a13169c2367d
+  - enabled: 1
+    path: Assets/Microgames/BeachBall/Scenes/BeachBall3.unity
+    guid: 7683ea8fa70d110429a4978c455f2611
+  - enabled: 1
+    path: Assets/Microgames/BoatSteer/Scenes/BoatSteer1.unity
+    guid: 4271ab5ca52e00946b9053e4de2dfee3
+  - enabled: 1
+    path: Assets/Microgames/BoatSteer/Scenes/BoatSteer2.unity
+    guid: 0982ff09c8a02f2489632057ccbb0fb6
+  - enabled: 1
+    path: Assets/Microgames/BoatSteer/Scenes/BoatSteer3.unity
+    guid: 7b10e37cd6e7166449dfd42acb4f0133
+  - enabled: 1
+    path: Assets/Microgames/BroomRace/Scenes/BroomRace1.unity
+    guid: cb066dede18ee473da0d0ab46d6941c5
+  - enabled: 1
+    path: Assets/Microgames/BroomRace/Scenes/BroomRace2.unity
+    guid: 5a1edb44c029d26408711fefc3e2f579
+  - enabled: 1
+    path: Assets/Microgames/BroomRace/Scenes/BroomRace3.unity
+    guid: daf62d03699b1dd4ca8dc0ea68603213
+  - enabled: 1
+    path: Assets/Microgames/BugSwat/Scenes/BugSwat1.unity
+    guid: f036be4a0ea4a5a4c9475e6d48933160
+  - enabled: 1
+    path: Assets/Microgames/BugSwat/Scenes/BugSwat2.unity
+    guid: 1bbe69e2d7388044caf4171915b91407
+  - enabled: 1
+    path: Assets/Microgames/BugSwat/Scenes/BugSwat3.unity
+    guid: 20a58f7b50d501f40b34c1e586163769
+  - enabled: 1
+    path: Assets/Microgames/CheeseFind/Scenes/CheeseFind1.unity
+    guid: 0a45065e175a74ed498a35049a30c715
+  - enabled: 1
+    path: Assets/Microgames/CheeseFind/Scenes/CheeseFind2.unity
+    guid: 9e57314e96a8cf1489d3a4248896ca9e
+  - enabled: 1
+    path: Assets/Microgames/CheeseFind/Scenes/CheeseFind3.unity
+    guid: 4ca4f1754216fef45808ffbb77e02a8b
+  - enabled: 1
+    path: Assets/Microgames/ChenBike/Scenes/ChenBike1.unity
+    guid: 6408da1b95a14ad488cb50e6f3180dc9
+  - enabled: 1
+    path: Assets/Microgames/ChenBike/Scenes/ChenBike2.unity
+    guid: fcc9bd3b9fdcc4b4193a446f1937dc06
+  - enabled: 1
+    path: Assets/Microgames/ChenBike/Scenes/ChenBike3.unity
+    guid: d7dd3aa57af168a44b8b10627f2211ec
+  - enabled: 1
+    path: Assets/Microgames/ChenFood/Scenes/ChenFood1.unity
+    guid: c49d9ded83895894680e4d013188d0f6
+  - enabled: 1
+    path: Assets/Microgames/ChenFood/Scenes/ChenFood2.unity
+    guid: 785dae4aa29260d4db0513245c28acdb
+  - enabled: 1
+    path: Assets/Microgames/ChenFood/Scenes/ChenFood3.unity
+    guid: 3494cbcdb7ff1734bbebf4397f286772
+  - enabled: 1
+    path: Assets/Microgames/CirnoBored/Scenes/CirnoBored1.unity
+    guid: 87583f9cffeddf64da3061be2d27c262
+  - enabled: 1
+    path: Assets/Microgames/CirnoBored/Scenes/CirnoBored2.unity
+    guid: 6018acb85abd228498e9aa38fd393b03
+  - enabled: 1
+    path: Assets/Microgames/CirnoBored/Scenes/CirnoBored3.unity
+    guid: 92bceb8ccfbddf84e94ff6dc6ba28f0c
+  - enabled: 1
+    path: Assets/Microgames/ClothesChoose/Scenes/ClothesChoose1.unity
+    guid: 0f1a3092572ead545b9564e3ddd4e804
+  - enabled: 1
+    path: Assets/Microgames/ClothesChoose/Scenes/ClothesChoose2.unity
+    guid: 2fc023c1c4732a041bcecc5a91625f6e
+  - enabled: 1
+    path: Assets/Microgames/ClothesChoose/Scenes/ClothesChoose3.unity
+    guid: 50169ce7b81525840a53abbced99caa1
+  - enabled: 1
+    path: Assets/Microgames/CloudPunch/Scenes/CloudPunch1.unity
+    guid: 81d51ae7ab14d4040bfd05a4a1d3a62d
+  - enabled: 1
+    path: Assets/Microgames/CloudPunch/Scenes/CloudPunch2.unity
+    guid: ed33a5888eb3687429daee7ee4d9d383
+  - enabled: 1
+    path: Assets/Microgames/CloudPunch/Scenes/CloudPunch3.unity
+    guid: 17884dfe267f43b45ae44d954b6c5dc9
+  - enabled: 1
+    path: Assets/Microgames/ClownTorch/ClownTorch1.unity
+    guid: e51a79aa81f529e448b8005dbff9f29d
+  - enabled: 1
+    path: Assets/Microgames/ClownTorch/ClownTorch2.unity
+    guid: 3aa025a8e56038f41bb1c5a87650350e
+  - enabled: 1
+    path: Assets/Microgames/ClownTorch/ClownTorch3.unity
+    guid: e7bdc5402b5c2b04e951bc5753b795c6
+  - enabled: 1
+    path: Assets/Microgames/ComicBubble/Scenes/ComicBubble1.unity
+    guid: 1fd3a4192f471e645a101ffc8a41e819
+  - enabled: 1
+    path: Assets/Microgames/ComicBubble/Scenes/ComicBubble2.unity
+    guid: ccc5138e078eb2042b978cd31ebcbea2
+  - enabled: 1
+    path: Assets/Microgames/ComicBubble/Scenes/ComicBubble3.unity
+    guid: c6af06b8fc1ae85448d23567144817cb
+  - enabled: 1
+    path: Assets/Microgames/CupShuffle/Scenes/CupShuffle1.unity
+    guid: df42214c0aad7924686ec94b0cebe417
+  - enabled: 1
+    path: Assets/Microgames/CupShuffle/Scenes/CupShuffle2.unity
+    guid: 24d2b622b7dcf714888a3b133fbb0db5
+  - enabled: 1
+    path: Assets/Microgames/CupShuffle/Scenes/CupShuffle3.unity
+    guid: b21128ed0dcd09c4c9566db3e3a7d0c2
+  - enabled: 1
+    path: Assets/Microgames/DatingSim/Scenes/DatingSimPatchy.unity
+    guid: 9f26b3f2242e4404e961caf46d9d39fd
+  - enabled: 1
+    path: Assets/Microgames/DatingSim/Scenes/DatingSimSuika.unity
+    guid: 0d5f3be26c556e14e9f4d75315721238
+  - enabled: 1
+    path: Assets/Microgames/DatingSim/Scenes/DatingSimYoumu.unity
+    guid: ef0e8f5b3d6e93d4fb6cad0fa5cdeb1b
+  - enabled: 1
+    path: Assets/Microgames/DatingSim/Scenes/DatingSimYuuka.unity
+    guid: 18069b043f2d394499ac839faee31acc
+  - enabled: 1
+    path: Assets/Microgames/DollDance/Scenes/DollDance1.unity
+    guid: 3cd4e8825a306f649ac521437bb1d137
+  - enabled: 1
+    path: Assets/Microgames/DollDance/Scenes/DollDance2.unity
+    guid: 0f88080f0cadcf448913a5a8171a4c19
+  - enabled: 1
+    path: Assets/Microgames/DollDance/Scenes/DollDance3.unity
+    guid: 4320b1cbff17e8c4786c569f9347c918
+  - enabled: 1
+    path: Assets/Microgames/Donation/Scenes/Donation1.unity
+    guid: 4887410108af425478dda1748bb0d592
+  - enabled: 1
+    path: Assets/Microgames/Donation/Scenes/Donation2.unity
+    guid: f1281cf356e8de54ba8ab375e5d52fb1
+  - enabled: 1
+    path: Assets/Microgames/Donation/Scenes/Donation3.unity
+    guid: 9e9c5a2476577d147a2cc680506aa03a
+  - enabled: 1
+    path: Assets/Microgames/DoomGame/Scenes/DoomGame1.unity
+    guid: 1ce2bf75ac341a543b70470eb99d739b
+  - enabled: 1
+    path: Assets/Microgames/DoomGame/Scenes/DoomGame2.unity
+    guid: 531302620a2b5c24cab594caa49d0d61
+  - enabled: 1
+    path: Assets/Microgames/DoomGame/Scenes/DoomGame3.unity
+    guid: f7f3957764a9ae246843eb098077b252
+  - enabled: 1
+    path: Assets/Microgames/DoorKnock/Scene/DoorKnock1.unity
+    guid: 2dcfdfce379014e0d8b930ba7c8c6fe3
+  - enabled: 1
+    path: Assets/Microgames/DoorKnock/Scene/DoorKnock2.unity
+    guid: 6103fc017aed54963ab0af2289f04841
+  - enabled: 1
+    path: Assets/Microgames/DoorKnock/Scene/DoorKnock3.unity
+    guid: 62119b07b01474cd89c975c426cc7d36
+  - enabled: 1
+    path: Assets/Microgames/EikiJudge/Scenes/EikiJudge1.unity
+    guid: e46998c3845450749a762fde56c2df48
+  - enabled: 1
+    path: Assets/Microgames/EikiJudge/Scenes/EikiJudge2.unity
+    guid: 44f0e9a131e9fed44b8bbd46415c2aaa
+  - enabled: 1
+    path: Assets/Microgames/EikiJudge/Scenes/EikiJudge3.unity
+    guid: 06216a24b6a9a254881cdc71fbe494a8
+  - enabled: 1
+    path: Assets/Microgames/FanBlow/Scenes/FanBlow1.unity
+    guid: 14c8d413d1035fb4db6c5bd2e363d2c5
+  - enabled: 1
+    path: Assets/Microgames/FanBlow/Scenes/FanBlow2.unity
+    guid: 9404dd975f2a3424c9797fa65c48ab88
+  - enabled: 1
+    path: Assets/Microgames/FanBlow/Scenes/FanBlow3.unity
+    guid: f4d4ebfa2cb1b3a4697151cdad1cfc23
+  - enabled: 1
+    path: Assets/Microgames/FlanGrab/Scenes/FlanGrab1.unity
+    guid: 9508ceea0a1b74f408d7d78e4c28774d
+  - enabled: 1
+    path: Assets/Microgames/FlanGrab/Scenes/FlanGrab2.unity
+    guid: d4312b9da8e23434ebf0a36eb75e87db
+  - enabled: 1
+    path: Assets/Microgames/FlanGrab/Scenes/FlanGrab3.unity
+    guid: 673808a2fc1e9e445a5d70170b4b311a
+  - enabled: 1
+    path: Assets/Microgames/FoodCut/Scenes/FoodCut1.unity
+    guid: 200f29088b097674595361747334db7b
+  - enabled: 1
+    path: Assets/Microgames/FoodCut/Scenes/FoodCut2.unity
+    guid: e7225b1f66e37b6429e98f1ceba354fe
+  - enabled: 1
+    path: Assets/Microgames/FoodCut/Scenes/FoodCut3.unity
+    guid: 4b40b278e58cf0444a6051928611eeb0
+  - enabled: 1
+    path: Assets/Microgames/FoodRoast/Scenes/FoodRoast1.unity
+    guid: a15cb801b6d74ab4cb4e9d77c0cb4268
+  - enabled: 1
+    path: Assets/Microgames/FoodRoast/Scenes/FoodRoast2.unity
+    guid: 628213faa3c34d247907cc48c02a0940
+  - enabled: 1
+    path: Assets/Microgames/FoodRoast/Scenes/FoodRoast3.unity
+    guid: a881d36daa2b55445a3ffbd84ff020a7
+  - enabled: 1
+    path: Assets/Microgames/FreezeFrogs/Scenes/FreezeFrogs1.unity
+    guid: 9dfc3cffd91e2944bb7ace2cd325196a
+  - enabled: 1
+    path: Assets/Microgames/FreezeFrogs/Scenes/FreezeFrogs2.unity
+    guid: 3daaaa39f8cf3174db7961f7b0e77c5b
+  - enabled: 1
+    path: Assets/Microgames/FreezeFrogs/Scenes/FreezeFrogs3.unity
+    guid: a1a5ab2e5c9fb4a4182ec156f695721f
+  - enabled: 1
+    path: Assets/Microgames/GayGame/Scenes/GayGame1.unity
+    guid: c246cbdb87f062544af63ad821092c03
+  - enabled: 1
+    path: Assets/Microgames/GayGame/Scenes/GayGame2.unity
+    guid: a4a8898a502570d4a81f6b325db361cb
+  - enabled: 1
+    path: Assets/Microgames/GayGame/Scenes/GayGame3.unity
+    guid: b3e214cbe1671734dbb3c865fc6ace35
+  - enabled: 1
+    path: Assets/Microgames/GhostFood/Scenes/GhostFood1.unity
+    guid: 33673c92313db4c449896e2b065f56a7
+  - enabled: 1
+    path: Assets/Microgames/GhostFood/Scenes/GhostFood2.unity
+    guid: bdf48f2b19d2d644ebd97f5566710bfd
+  - enabled: 1
+    path: Assets/Microgames/GhostFood/Scenes/GhostFood3.unity
+    guid: b0935a31cd7e4304093e78a8b3803e1b
+  - enabled: 1
+    path: Assets/Microgames/GhostSuck/Scenes/GhostSuck1.unity
+    guid: 4b7c3cd8978ba6445be3ae2b4635344a
+  - enabled: 1
+    path: Assets/Microgames/GhostSuck/Scenes/GhostSuck2.unity
+    guid: 09d309e7475160c4a9ade460cda85097
+  - enabled: 1
+    path: Assets/Microgames/GhostSuck/Scenes/GhostSuck3.unity
+    guid: 2df77fddc641bdf488fe06f547483def
+  - enabled: 1
+    path: Assets/Microgames/HecShapes/Scenes/HecShapes1.unity
+    guid: 3889b8b644e158049be14c666119dbd8
+  - enabled: 1
+    path: Assets/Microgames/HecShapes/Scenes/HecShapes2.unity
+    guid: 332980f8b0894e04db6fc41507debe5b
+  - enabled: 1
+    path: Assets/Microgames/HecShapes/Scenes/HecShapes3.unity
+    guid: 8eef709d5081ac445a0869b2d5758410
+  - enabled: 1
+    path: Assets/Microgames/IcePath/Scenes/IcePath1.unity
+    guid: 24645316d658946479242531313961f0
+  - enabled: 1
+    path: Assets/Microgames/IcePath/Scenes/IcePath2.unity
+    guid: 4aca09de10d153c4eacb33c927229419
+  - enabled: 1
+    path: Assets/Microgames/IcePath/Scenes/IcePath3.unity
+    guid: d9412cdb0632d4844999f7950387795e
+  - enabled: 1
+    path: Assets/Microgames/KagerouCut/Scenes/KagerouCut1.unity
+    guid: ff2f3bbcbd0f248a494fa929e89c7b02
+  - enabled: 1
+    path: Assets/Microgames/KagerouCut/Scenes/KagerouCut2.unity
+    guid: 2466caa14056f40f089442dabd17063b
+  - enabled: 1
+    path: Assets/Microgames/KagerouCut/Scenes/KagerouCut3.unity
+    guid: 7f1f538bf38fd49f59f10148e1fea3a5
+  - enabled: 1
+    path: Assets/Microgames/KaguyaMemory/Scenes/KaguyaMemory1.unity
+    guid: 2d3cc6c00f9d53e43b9b6b213537a208
+  - enabled: 1
+    path: Assets/Microgames/KaguyaMemory/Scenes/KaguyaMemory2.unity
+    guid: 0d46f653cc7c48442ba4c6d9e83a30bb
+  - enabled: 1
+    path: Assets/Microgames/KaguyaMemory/Scenes/KaguyaMemory3.unity
+    guid: 7f6867f137ab1b04d8a7f80549c6e1dc
+  - enabled: 1
+    path: Assets/Microgames/KasenPets/Scenes/KasenPets1.unity
+    guid: 0ece5f17e073670468bc19b5bb668cc7
+  - enabled: 1
+    path: Assets/Microgames/KasenPets/Scenes/KasenPets2.unity
+    guid: f6b9506670c98334bb93eb6841733a9a
+  - enabled: 1
+    path: Assets/Microgames/KasenPets/Scenes/KasenPets3.unity
+    guid: 7838fd65fe33cea45b213c13846287be
+  - enabled: 1
+    path: Assets/Microgames/KeineMath/Scenes/KeineMath1.unity
+    guid: f4e96dab72409b84a9d6c9ec2b4a7222
+  - enabled: 1
+    path: Assets/Microgames/KeineMath/Scenes/KeineMath2.unity
+    guid: 5dcfac80b9de7674e80385df00e2cb76
+  - enabled: 1
+    path: Assets/Microgames/KeineMath/Scenes/KeineMath3.unity
+    guid: c26f129ed5a3f6141a8d3f4d95c3a7ff
+  - enabled: 1
+    path: Assets/Microgames/KnifeDodge/Scenes/KnifeDodge1.unity
+    guid: c29d247abe6370044b7c65c269e37388
+  - enabled: 1
+    path: Assets/Microgames/KnifeDodge/Scenes/KnifeDodge2.unity
+    guid: d259b58e8524f7940aeb9872a32fb11a
+  - enabled: 1
+    path: Assets/Microgames/KnifeDodge/Scenes/KnifeDodge3.unity
+    guid: 7d6706e50b2736f44800dbe813589f28
+  - enabled: 1
+    path: Assets/Microgames/KogasaScare/Scenes/KogasaScare1.unity
+    guid: 747a7e422b79db24d9bcb872a295d9bd
+  - enabled: 1
+    path: Assets/Microgames/KogasaScare/Scenes/KogasaScare2.unity
+    guid: cf5c377d6d7256245adc7068b5a5ae66
+  - enabled: 1
+    path: Assets/Microgames/KogasaScare/Scenes/KogasaScare3.unity
+    guid: ca87419fbc6fa904a95b9c2c5968c36d
+  - enabled: 1
+    path: Assets/Microgames/KyoukoEcho/Scenes/KyoukoEcho1.unity
+    guid: 5b6c334dd5871b647b61fbafbcd86e8d
+  - enabled: 1
+    path: Assets/Microgames/KyoukoEcho/Scenes/KyoukoEcho2.unity
+    guid: 070c2a5586a8629439dca0c2d668e5f5
+  - enabled: 1
+    path: Assets/Microgames/KyoukoEcho/Scenes/KyoukoEcho3.unity
+    guid: 1d69b753e5b2da7409ab25c067d1b66d
+  - enabled: 1
+    path: Assets/Microgames/MamiPoser/Scenes/MamiPoser1.unity
+    guid: ba8fe303d849ad14186eb40f15226dc7
+  - enabled: 1
+    path: Assets/Microgames/MamiPoser/Scenes/MamiPoser2.unity
+    guid: 19e0b6ad5363b4b539c215da0fe4aa0d
+  - enabled: 1
+    path: Assets/Microgames/MamiPoser/Scenes/MamiPoser3.unity
+    guid: 45c6f56df224746ddaa977566e880e11
+  - enabled: 1
+    path: Assets/Microgames/MarisaJizou/Scenes/MarisaJizou1.unity
+    guid: ba9cadb86129de841b04b5683115236b
+  - enabled: 1
+    path: Assets/Microgames/MarisaJizou/Scenes/MarisaJizou2.unity
+    guid: 85bbf14abcc3d0c4a8d48189e02bc4dc
+  - enabled: 1
+    path: Assets/Microgames/MarisaJizou/Scenes/MarisaJizou3.unity
+    guid: 125719f346e9d5a4caf7cc8983ca35ad
+  - enabled: 1
+    path: Assets/Microgames/MaskPuzzle/Scenes/MaskPuzzle1.unity
+    guid: c9510b0976c58b24bab39df14d49cdbf
+  - enabled: 1
+    path: Assets/Microgames/MaskPuzzle/Scenes/MaskPuzzle2.unity
+    guid: d714049f34a5d426ba84962a417487f3
+  - enabled: 1
+    path: Assets/Microgames/MaskPuzzle/Scenes/MaskPuzzle3.unity
+    guid: aa776ca1b632844ec99ca1dd618e8ac0
+  - enabled: 1
+    path: Assets/Microgames/MasterSparkCode/Scenes/MasterSparkCode1.unity
+    guid: b0dcaaf04ce6b654faba89e339807e58
+  - enabled: 1
+    path: Assets/Microgames/MasterSparkCode/Scenes/MasterSparkCode2.unity
+    guid: fcf44b6db0dde604e91f10722dc09d14
+  - enabled: 1
+    path: Assets/Microgames/MasterSparkCode/Scenes/MasterSparkCode3.unity
+    guid: 5c7da5fa65578414d95d942be99b643b
+  - enabled: 1
+    path: Assets/Microgames/MilkPour/Scenes/MilkPour1.unity
+    guid: c20da805062b4d849a6eb95de168bff8
+  - enabled: 1
+    path: Assets/Microgames/MilkPour/Scenes/MilkPour2.unity
+    guid: f10cce3862e9bef44aaf322596d56af5
+  - enabled: 1
+    path: Assets/Microgames/MilkPour/Scenes/MilkPour3.unity
+    guid: 3ef6b7399e2e3c9478b166c42f8f550f
+  - enabled: 1
+    path: Assets/Microgames/MochiPound/Scenes/MochiPound1.unity
+    guid: 72089c984699ca84a8628cf40d3d058a
+  - enabled: 1
+    path: Assets/Microgames/MochiPound/Scenes/MochiPound2.unity
+    guid: 6ea524d9f85bb8841952135ce944d1b6
+  - enabled: 1
+    path: Assets/Microgames/MochiPound/Scenes/MochiPound3.unity
+    guid: 4878b643b1ef4f64d8e84ff9b86fd03a
+  - enabled: 1
+    path: Assets/Microgames/MoneyTrap/Scenes/MoneyTrap1.unity
+    guid: 46b85f78566491f4a81f8daabe5dcad3
+  - enabled: 1
+    path: Assets/Microgames/MoneyTrap/Scenes/MoneyTrap2.unity
+    guid: c706e8b1e647e134e93b58adfb5682d4
+  - enabled: 1
+    path: Assets/Microgames/MoneyTrap/Scenes/MoneyTrap3.unity
+    guid: a63ffe7356e68564a8b2a971ea2f4128
+  - enabled: 1
+    path: Assets/Microgames/MystiaServe/Scenes/MystiaServe1.unity
+    guid: 961c63ee8a9321444adaec8e8cb69b93
+  - enabled: 1
+    path: Assets/Microgames/MystiaServe/Scenes/MystiaServe2.unity
+    guid: de6d6108838b2e74cabec008429cbfd9
+  - enabled: 1
+    path: Assets/Microgames/MystiaServe/Scenes/MystiaServe3.unity
+    guid: 15d5970c87e9cbe4c95ab1edcc9062f0
+  - enabled: 1
+    path: Assets/Microgames/NitoriLook/Scenes/NitoriLook1.unity
+    guid: bd83df253f023e54ab36c24e52d9bdb1
+  - enabled: 1
+    path: Assets/Microgames/NitoriLook/Scenes/NitoriLook2.unity
+    guid: 3c4d1e4e661ba8b49acf307d346fff1b
+  - enabled: 1
+    path: Assets/Microgames/NitoriLook/Scenes/NitoriLook3.unity
+    guid: b3d820aec23c5c74b958d9b30e3ae077
+  - enabled: 1
+    path: Assets/Microgames/NueAbduct/Scenes/NueAbduct1.unity
+    guid: 203fac7dff80d4f4bbb0237b2bd133ea
+  - enabled: 1
+    path: Assets/Microgames/NueAbduct/Scenes/NueAbduct2.unity
+    guid: 5ca93c6f849224c50ba6486e613c7daf
+  - enabled: 1
+    path: Assets/Microgames/NueAbduct/Scenes/NueAbduct3.unity
+    guid: 744715f0d212dc9428196c639ba9bcd9
+  - enabled: 1
+    path: Assets/Microgames/OkuuFire/Scenes/OkuuFire1.unity
+    guid: 5b243632e8aa1d24582649e9f312fd72
+  - enabled: 1
+    path: Assets/Microgames/OkuuFire/Scenes/OkuuFire2.unity
+    guid: 9abc5960e3dbd3b41936cd1769331353
+  - enabled: 1
+    path: Assets/Microgames/OkuuFire/Scenes/OkuuFire3.unity
+    guid: 31ad83fe2b96d784aa81f0a43b264ec7
+  - enabled: 1
+    path: Assets/Microgames/Potion/Scenes/Potion1.unity
+    guid: 9aebf67782e47bd48be88e1ada10c6ea
+  - enabled: 1
+    path: Assets/Microgames/Potion/Scenes/Potion2.unity
+    guid: 7c7ecc0f93f9b3e45b25e3ad741a015c
+  - enabled: 1
+    path: Assets/Microgames/Potion/Scenes/Potion3.unity
+    guid: 476d417742322b1438a840da4ea65f54
+  - enabled: 1
+    path: Assets/Microgames/RemiCover/Scenes/RemiCover1.unity
+    guid: e63bc32223b92454c86134328a8baaf8
+  - enabled: 1
+    path: Assets/Microgames/RemiCover/Scenes/RemiCover2.unity
+    guid: 9ca3dc9a4eeefa345ad6742bbef49d1d
+  - enabled: 1
+    path: Assets/Microgames/RemiCover/Scenes/RemiCover3.unity
+    guid: 71c6140cbe3df3948ad03a6954f4c33f
+  - enabled: 1
+    path: Assets/Microgames/RockBand/Scenes/RockBand1.unity
+    guid: 352b6c8263f10644f803c9627a1643be
+  - enabled: 1
+    path: Assets/Microgames/RockBand/Scenes/RockBand2.unity
+    guid: 10dee1fddff9666409df8b00f665ce80
+  - enabled: 1
+    path: Assets/Microgames/RockBand/Scenes/RockBand3.unity
+    guid: 74c61ced8596df145997f829dceb54c6
+  - enabled: 1
+    path: Assets/Microgames/RockPaperSatori/Scenes/RockPaperSatori1.unity
+    guid: a70d8a82f9f687a44bea5b8a9dee45c8
+  - enabled: 1
+    path: Assets/Microgames/RockPaperSatori/Scenes/RockPaperSatori2.unity
+    guid: d03cfb98415349f48adc754ff6cc19bd
+  - enabled: 1
+    path: Assets/Microgames/RockPaperSatori/Scenes/RockPaperSatori3.unity
+    guid: 8f1036b319c20e24483f1e81a6f1c2ad
+  - enabled: 1
+    path: Assets/Microgames/RuukotoSweep/Scenes/RuukotoSweep1.unity
+    guid: 4dfaa93ff8f7b834d8190f5105da3e57
+  - enabled: 1
+    path: Assets/Microgames/RuukotoSweep/Scenes/RuukotoSweep2.unity
+    guid: 64f884d9d45555f42b96a6dd89612fe1
+  - enabled: 1
+    path: Assets/Microgames/RuukotoSweep/Scenes/RuukotoSweep3.unity
+    guid: 0e2a13880fe2d7240a13a52a74bfb239
+  - enabled: 1
+    path: Assets/Microgames/SeijaSpin/Scenes/SeijaSpin1.unity
+    guid: 3200dc2fe3bed004392d9e0dd05d9ad7
+  - enabled: 1
+    path: Assets/Microgames/SeijaSpin/Scenes/SeijaSpin2.unity
+    guid: 209f9f4d091dae44aad6c875ab8aa4dd
+  - enabled: 1
+    path: Assets/Microgames/SeijaSpin/Scenes/SeijaSpin3.unity
+    guid: 243b15f6f70d76e4f81f959ec52f55cd
+  - enabled: 1
+    path: Assets/Microgames/Slingshot/Scenes/Slingshot1.unity
+    guid: aacd979e60d026848834e44e2632539a
+  - enabled: 1
+    path: Assets/Microgames/Slingshot/Scenes/Slingshot2.unity
+    guid: 3d98a23ebe358fb4581de43ea6d84838
+  - enabled: 1
+    path: Assets/Microgames/Slingshot/Scenes/Slingshot3.unity
+    guid: 8fe49c59301aaef4cb7f33b95ef10561
+  - enabled: 1
+    path: Assets/Microgames/Spaceship/Scenes/Spaceship1.unity
+    guid: 964ece8bcd082f4458c3894e78072f16
+  - enabled: 1
+    path: Assets/Microgames/Spaceship/Scenes/Spaceship2.unity
+    guid: a2b47a130a8b0154a94824d2d81f7bff
+  - enabled: 1
+    path: Assets/Microgames/Spaceship/Scenes/Spaceship3.unity
+    guid: 3b2bed8f71b4774469843e9cdf4636f7
+  - enabled: 1
+    path: Assets/Microgames/Spider/Scenes/Spider1.unity
+    guid: 45552b818c4badc45933b88695ad43cd
+  - enabled: 1
+    path: Assets/Microgames/Spider/Scenes/Spider2.unity
+    guid: 012c6082355c1a44aa3f8837da2ab607
+  - enabled: 1
+    path: Assets/Microgames/Spider/Scenes/Spider3.unity
+    guid: c92c8f974e2909e47b58d80dcdf06753
+  - enabled: 1
+    path: Assets/Microgames/SuikaShake/Scenes/SuikaShake1.unity
+    guid: bd3a23ecedb26134f9583e1d0aab286e
+  - enabled: 1
+    path: Assets/Microgames/SuikaShake/Scenes/SuikaShake2.unity
+    guid: 5a3051a2cc7f6b54484a995ffa72e96c
+  - enabled: 1
+    path: Assets/Microgames/SuikaShake/Scenes/SuikaShake3.unity
+    guid: 467f642996888224b9b4505eb1ac9564
+  - enabled: 1
+    path: Assets/Microgames/SumiWheel/Scenes/SumiWheel1.unity
+    guid: 97bd5c3bf7ec4c14a84efb4f851755c6
+  - enabled: 1
+    path: Assets/Microgames/SumiWheel/Scenes/SumiWheel2.unity
+    guid: 9eec8cfa381c57b44b7909725779ff1f
+  - enabled: 1
+    path: Assets/Microgames/SumiWheel/Scenes/SumiWheel3.unity
+    guid: 3488eaa80fd81ce4b9039e7d6efb78b4
+  - enabled: 1
+    path: Assets/Microgames/TouhouSort/Scenes/TouhouSortEar.unity
+    guid: 5fb5f6f13f00062478e81cfe85969e63
+  - enabled: 1
+    path: Assets/Microgames/TouhouSort/Scenes/TouhouSortHat.unity
+    guid: b22da8b7ccd163c449a018177e5571f0
+  - enabled: 1
+    path: Assets/Microgames/TouhouSort/Scenes/TouhouSortWing.unity
+    guid: 47cce5b16acf12c4f88f79bb0cb31e5c
+  - enabled: 1
+    path: Assets/Microgames/TraceShape/Scenes/TraceShape1.unity
+    guid: d1971257ead4f854fbec51243992b74c
+  - enabled: 1
+    path: Assets/Microgames/TraceShape/Scenes/TraceShape2.unity
+    guid: 87866556691c856418ba14a73fdd3484
+  - enabled: 1
+    path: Assets/Microgames/TraceShape/Scenes/TraceShape3.unity
+    guid: 03bc35510f18a404497cfc221d348e4e
+  - enabled: 1
+    path: Assets/Microgames/TrainTracks/Scenes/TrainTracks1.unity
+    guid: 1e661fc9f5fd8914c857bb55a49a01f9
+  - enabled: 1
+    path: Assets/Microgames/TrainTracks/Scenes/TrainTracks2.unity
+    guid: 03a26fc138837be4ba6466b0d86130d8
+  - enabled: 1
+    path: Assets/Microgames/TrainTracks/Scenes/TrainTracks3.unity
+    guid: 31c63659698738a469eaea90b34b090d
+  - enabled: 1
+    path: Assets/Microgames/Wrench/Scenes/Wrench1.unity
+    guid: 46b2b775cf2ec234a877cc8b30bdca80
+  - enabled: 1
+    path: Assets/Microgames/Wrench/Scenes/Wrench2.unity
+    guid: 85ebea2e5e9f97547be1fcae550bd031
+  - enabled: 1
+    path: Assets/Microgames/Wrench/Scenes/Wrench3.unity
+    guid: c27745c847adaf747aa9384164108755
+  - enabled: 1
+    path: Assets/Microgames/YukariCake/Scenes/YukariCake1.unity
+    guid: 17eb4926c77a1234093817d030c06216
+  - enabled: 1
+    path: Assets/Microgames/YukariCake/Scenes/YukariCake2.unity
+    guid: 26cd4b4daaabcb544b4a3ada32532828
+  - enabled: 1
+    path: Assets/Microgames/YukariCake/Scenes/YukariCake3.unity
+    guid: b4e472d3d31351a4bbf39ba92ea8af33
+  - enabled: 1
+    path: Assets/Microgames/YuugiBalance/Scenes/YuugiBalance1.unity
+    guid: 2b0c8faf3f4e6ee4ba1a8b245c47aa2b
+  - enabled: 1
+    path: Assets/Microgames/YuugiBalance/Scenes/YuugiBalance2.unity
+    guid: bfa1d92c6495f6543bdd09be5ecb85a3
+  - enabled: 1
+    path: Assets/Microgames/YuugiBalance/Scenes/YuugiBalance3.unity
+    guid: f1c789e5acb31594bba5cfaa79280f82
+  - enabled: 1
+    path: Assets/Microgames/YuukaWater/Scenes/YuukaWater1.unity
+    guid: 1889890c11c108f498a9ddbd3a8ea11b
+  - enabled: 1
+    path: Assets/Microgames/YuukaWater/Scenes/YuukaWater2.unity
+    guid: 82ee9194cdf63d14a81969b1b121465a
+  - enabled: 1
+    path: Assets/Microgames/YuukaWater/Scenes/YuukaWater3.unity
+    guid: 10550122f9798d641b7b7e0fb69fc738
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/DarkRoom/Scenes/DarkRoom1.unity
+    guid: 39de673bb28f2184aa98c4d7dbf4b836
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/DarkRoom/Scenes/DarkRoom2.unity
+    guid: 6c99f512226bdba4d80b5b073b9637d3
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/DarkRoom/Scenes/DarkRoom3.unity
+    guid: 54fe7a21dc59ece4f886e39e5bd30291
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/PaperThief/Scenes/PaperThief1.unity
+    guid: 77f3381bc251e9f488f72f94e691d532
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/PaperThief/Scenes/PaperThief2.unity
+    guid: 822b6dd77d741ac41969409e626002d4
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/PaperThief/Scenes/PaperThief3.unity
+    guid: 20761ca0e65d8f748b9c658d3c010000
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/YoumuSlash/Debug/YoumuSlashStairs.unity
+    guid: b6837c727d305d149ad58c74d0de2899
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/YoumuSlash/Scenes/YoumuSlash1.unity
+    guid: 9642b0a9342e76d42ba1e607755aa722
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/YoumuSlash/Scenes/YoumuSlash2.unity
+    guid: e803303ec012b354497b286ceee42e46
+  - enabled: 1
+    path: Assets/Microgames/_Bosses/YoumuSlash/Scenes/YoumuSlash3.unity
+    guid: 1c8f84aa4ff0b3a4faa511af855f6162
+  m_configObjects: {}
